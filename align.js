@@ -1,5 +1,6 @@
 'use strict'
-var stringWidth = require('string-width')
+import stringWidth from 'string-width';
+//var stringWidth = require('string-width')
 
 exports.center = alignCenter
 exports.left = alignLeft
